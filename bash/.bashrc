@@ -34,6 +34,6 @@ set -o vi
 
 alias c="clear && [ $TMUX ] && tmux clear-history"
 
-if [ -f "~/Tools/.bashrc" ]; then
-  source ~/Tools/.bashrc
+if [ -f "$HOME/Tools/.bashrc" ]; then
+  source $HOME/Tools/.bashrc
 fi
