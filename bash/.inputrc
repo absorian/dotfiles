@@ -1,0 +1,9 @@
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+set show-all-if-ambiguous on
+set completion-ignore-case on
+
+set show-mode-in-prompt on
+set vi-cmd-mode-string "刀"
+set vi-ins-mode-string "  "
+
