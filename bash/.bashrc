@@ -37,3 +37,4 @@ alias c="clear && [ $TMUX ] && tmux clear-history"
 if [ -f "$HOME/Tools/.bashrc" ]; then
   source $HOME/Tools/.bashrc
 fi
+
